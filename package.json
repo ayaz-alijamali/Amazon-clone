@@ -1,0 +1,12 @@
+{
+  "name": "a-j-amzon-clone",
+  "version": "1.0.0",
+  "description": "this is my first coding on html and css ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayaz Ali",
+  "license": "MIT"
+}
